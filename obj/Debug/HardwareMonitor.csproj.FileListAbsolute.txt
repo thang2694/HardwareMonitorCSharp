@@ -1,0 +1,10 @@
+C:\Users\nvt-v\Desktop\HardwareMonitor\HardwareMonitor\bin\Debug\HardwareMonitor.exe.config
+C:\Users\nvt-v\Desktop\HardwareMonitor\HardwareMonitor\bin\Debug\HardwareMonitor.exe
+C:\Users\nvt-v\Desktop\HardwareMonitor\HardwareMonitor\bin\Debug\HardwareMonitor.pdb
+C:\Users\nvt-v\Desktop\HardwareMonitor\HardwareMonitor\obj\Debug\HardwareMonitor.Properties.Resources.resources
+C:\Users\nvt-v\Desktop\HardwareMonitor\HardwareMonitor\obj\Debug\HardwareMonitor.csproj.GenerateResource.Cache
+C:\Users\nvt-v\Desktop\HardwareMonitor\HardwareMonitor\obj\Debug\HardwareMonitor.exe
+C:\Users\nvt-v\Desktop\HardwareMonitor\HardwareMonitor\obj\Debug\HardwareMonitor.pdb
+C:\Users\nvt-v\Desktop\HardwareMonitor\HardwareMonitor\obj\Debug\HardwareMonitor.fmrMain.resources
+C:\Users\nvt-v\Desktop\HardwareMonitor\HardwareMonitor\obj\Debug\HardwareMonitor.csprojResolveAssemblyReference.cache
+C:\Users\nvt-v\Desktop\HardwareMonitor\HardwareMonitor\obj\Debug\HardwareMonitor.frmabout.resources
